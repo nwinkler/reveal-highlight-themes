@@ -53,4 +53,9 @@ module.exports = function (grunt) {
   grunt.registerTask('default', [
     'build'
   ]);
+
+  grunt.registerTask('release', [
+    'build',
+    'bump'
+  ]);
 };
