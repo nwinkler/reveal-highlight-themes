@@ -1,0 +1,28 @@
+{
+  "name": "reveal-highlight-themes",
+  "version": "0.0.0",
+  "description": "The highlight.js syntax themes repackaged for easy usage with reveal.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nwinkler/reveal-highlight-themes.git"
+  },
+  "keywords": [
+    "reveal",
+    "reveal.js",
+    "highlight",
+    "highlight.js",
+    "syntax",
+    "themes",
+    "theme"
+  ],
+  "author": "Nils Winkler <nils@nilswinkler.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwinkler/reveal-highlight-themes/issues"
+  },
+  "homepage": "https://github.com/nwinkler/reveal-highlight-themes"
+}
