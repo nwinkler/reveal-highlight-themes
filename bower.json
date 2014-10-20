@@ -24,7 +24,7 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "highlightjs": "~8.3.0"
+  "devDependencies": {
+    "highlightjs": "=8.3.0"
   }
 }
