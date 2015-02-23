@@ -1,6 +1,6 @@
 {
   "name": "reveal-highlight-themes",
-  "version": "8.3.0",
+  "version": "8.4.0",
   "description": "The highlight.js syntax themes repackaged for easy usage with reveal.js",
   "main": "index.js",
   "scripts": {

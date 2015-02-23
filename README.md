@@ -1,6 +1,6 @@
 # reveal-highlight-themes
 
-Version: 8.3.0
+Version: 8.4.0
 
 Bundles the [Highlight.js](http://highlightjs.org/) syntax themes in a form that allows easy integration in [Reveal.js](http://lab.hakim.se/reveal-js).
 
