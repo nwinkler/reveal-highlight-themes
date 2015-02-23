@@ -101,7 +101,6 @@ pre .shebang,
 pre .diff .addition,
 pre .comment,
 pre .annotation,
-pre .template_comment,
 pre .pi,
 pre .doctype {
   color: #7f9f7f;

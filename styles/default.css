@@ -51,7 +51,6 @@ pre .coffeescript .attribute {
 pre .smartquote,
 pre .comment,
 pre .annotation,
-pre .template_comment,
 pre .diff .header,
 pre .chunk,
 pre .asciidoc .blockquote,

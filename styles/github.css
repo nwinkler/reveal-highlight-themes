@@ -14,7 +14,6 @@ pre code {
 }
 
 pre .comment,
-pre .template_comment,
 pre .diff .header,
 pre .javadoc {
   color: #998;
@@ -24,7 +23,6 @@ pre .javadoc {
 pre .keyword,
 pre .css .rule .keyword,
 pre .winutils,
-pre .javascript .title,
 pre .nginx .title,
 pre .subst,
 pre .request,
@@ -54,7 +52,6 @@ pre .scss .preprocessor {
   font-weight: bold;
 }
 
-pre .javascript .title,
 pre .list .keyword,
 pre .subst {
   font-weight: normal;

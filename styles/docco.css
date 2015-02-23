@@ -12,7 +12,6 @@ pre code {
 }
 
 pre .comment,
-pre .template_comment,
 pre .diff .header,
 pre .javadoc {
   color: #408080;

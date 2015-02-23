@@ -54,7 +54,6 @@ pre .javadoc,
 pre .output .value,
 pre .pi,
 pre .shebang,
-pre .template_comment,
 pre .doctype {
   color: #707880;
 }

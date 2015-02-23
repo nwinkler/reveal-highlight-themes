@@ -16,6 +16,7 @@ pre code,
 pre .tag,
 pre .css .rules,
 pre .css .value,
+pre .aspectj .function,
 pre .css .function
 pre .preprocessor,
 pre .pragma {
@@ -58,11 +59,14 @@ pre .strongemphasis {
 
 pre .emphasis,
 pre .strongemphasis,
-pre .class .title:last-child {
+pre .class .title:last-child,
+pre .typename {
   font-style: italic;
 }
 
 pre .keyword,
+pre .ruby .class .keyword:first-child,
+pre .ruby .function .keyword,
 pre .function,
 pre .change,
 pre .winutils,
@@ -84,14 +88,17 @@ pre .css .important {
 
 pre .function .keyword,
 pre .class .keyword:first-child,
+pre .aspect .keyword:first-child,
 pre .constant,
+pre .typename,
 pre .css .attribute {
   color: #66d9ef;
 }
 
 pre .variable,
 pre .params,
-pre .class .title {
+pre .class .title,
+pre .aspect .title {
   color: #f8f8f2;
 }
 
@@ -125,7 +132,6 @@ pre .comment,
 pre .javadoc,
 pre .annotation,
 pre .decorator,
-pre .template_comment,
 pre .pi,
 pre .doctype,
 pre .deletion,

@@ -28,7 +28,6 @@ pre .diff,
 pre .pi,
 pre .doctype,
 pre .tag,
-pre .template_comment,
 pre .css .rules,
 pre .tex .special {
   color: #444;

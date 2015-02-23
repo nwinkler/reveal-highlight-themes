@@ -20,7 +20,6 @@ pre .collection {
 }
 
 pre .comment,
-pre .template_comment,
 pre .diff .header,
 pre .doctype,
 pre .lisp .string,

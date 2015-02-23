@@ -43,7 +43,6 @@ pre .coffeescript .attribute {
 
 pre .comment,
 pre .annotation,
-pre .template_comment,
 pre .diff .header,
 pre .chunk {
   color: #777;

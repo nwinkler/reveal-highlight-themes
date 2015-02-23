@@ -3,8 +3,7 @@
 /* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
 
 /* Tomorrow Comment */
-pre .comment,
-pre .title {
+pre .comment {
   color: #999999;
 }
 
@@ -52,6 +51,7 @@ pre .xml .cdata {
 }
 
 /* Tomorrow Aqua */
+pre .title,
 pre .css .hexcolor {
   color: #66cccc;
 }

@@ -24,8 +24,7 @@ pre .javadoctag {
 }
 
 pre .comment,
-pre .chunk,
-pre .template_comment {
+pre .chunk {
   color: #738191;
 }
 

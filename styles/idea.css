@@ -21,7 +21,6 @@ pre .json .value {
 }
 
 pre .comment,
-pre .template_comment,
 pre .javadoc,
 pre .diff .header {
   color: #808080;

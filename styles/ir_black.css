@@ -13,7 +13,6 @@ pre code {
 
 pre .shebang,
 pre .comment,
-pre .template_comment,
 pre .javadoc {
   color: #7c7c7c;
 }

@@ -63,7 +63,6 @@ pre .coffeescript .attribute {
 pre .comment,
 pre .annotation,
 pre .decorator,
-pre .template_comment,
 pre .pi,
 pre .doctype,
 pre .deletion,
