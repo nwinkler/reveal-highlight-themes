@@ -2,6 +2,8 @@
 
 Version: 8.4.0
 
+**Note: Starting with Reveal.js 3.0.0, this project is no longer required, as Reveal.js now uses the standard Highlight syntax without any modifications.**
+
 Bundles the [Highlight.js](http://highlightjs.org/) syntax themes in a form that allows easy integration in [Reveal.js](http://lab.hakim.se/reveal-js).
 
 Reveal.js internally uses Highlight.js for syntax highlighting in code blocks, but uses a slightly different format for the CSS. This project provides the original Highlight.js themes adapted to the Reveal.js format.
